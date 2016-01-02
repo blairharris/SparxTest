@@ -1,0 +1,2 @@
+# SparxTest
+Sparx Codility Test
